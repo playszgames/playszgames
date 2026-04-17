@@ -1,0 +1,53 @@
+# SZ Games - Robots.txt for Search Engine Optimization
+# This file tells search engines how to crawl and index SZ Games
+
+User-agent: *
+Allow: /
+Allow: /games
+Allow: /game/
+Allow: /category/
+Allow: /blog
+Allow: /about
+Allow: /contact
+Allow: /faq
+
+# Disallow private pages
+Disallow: /admin
+Disallow: /private
+Disallow: /api/private
+
+# Disallow duplicate content
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+
+# Sitemap location for SZ Games
+Sitemap: https://szgames.com/sitemap.xml
+
+# Crawl delay (optional - adjust based on server capacity)
+Crawl-delay: 1
+
+# Request rate (optional)
+Request-rate: 30/1m
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+# Block bad bots
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
