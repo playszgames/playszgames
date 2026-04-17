@@ -1,0 +1,309 @@
+{
+  "games": [
+    {
+      "id": "1v1-lol",
+      "title": "1v1 LOL",
+      "category": "Battle",
+      "subcategory": "Competitive",
+      "description": "Epic 1v1 battles in this competitive gaming experience. Build, fight, and dominate in real-time combat.",
+      "guide": "Master the art of building and combat. Practice your aim, build structures quickly, and outmaneuver your opponent. Key tips: Always maintain high ground, manage your materials, and stay mobile.",
+      "rating": 4.8,
+      "plays": 2500000,
+      "difficulty": "Medium",
+      "tags": ["pvp", "competitive", "action", "multiplayer"],
+      "image": "1v1-lol.jpg"
+    },
+    {
+      "id": "10x10",
+      "title": "10x10",
+      "category": "Puzzle",
+      "subcategory": "Block Puzzle",
+      "description": "Challenge your mind with this addictive puzzle game. Place blocks strategically to clear lines and score big.",
+      "guide": "Think ahead and plan your moves. Try to clear multiple lines at once for bonus points. The key to high scores is positioning blocks efficiently and avoiding dead zones.",
+      "rating": 4.6,
+      "plays": 1800000,
+      "difficulty": "Easy",
+      "tags": ["puzzle", "blocks", "casual", "strategy"],
+      "image": "10x10.jpg"
+    },
+    {
+      "id": "2048",
+      "title": "2048",
+      "category": "Puzzle",
+      "subcategory": "Number Puzzle",
+      "description": "The classic number puzzle that took the world by storm. Combine tiles to reach 2048 and beyond.",
+      "guide": "Keep your highest numbers in one corner. Combine tiles strategically to create space. Focus on building towards 2048 while maintaining board control.",
+      "rating": 4.7,
+      "plays": 3200000,
+      "difficulty": "Medium",
+      "tags": ["puzzle", "numbers", "strategy", "classic"],
+      "image": "2048.jpg"
+    },
+    {
+      "id": "snake-game",
+      "title": "Snake Game",
+      "category": "Casual",
+      "subcategory": "Arcade",
+      "description": "The timeless classic Snake game. Eat food, grow longer, and avoid hitting walls and yourself.",
+      "guide": "Start slow and plan your path. Avoid creating situations where you trap yourself. Use the edges strategically to navigate the board safely.",
+      "rating": 4.5,
+      "plays": 2100000,
+      "difficulty": "Easy",
+      "tags": ["arcade", "classic", "casual", "retro"],
+      "image": "snake.jpg"
+    },
+    {
+      "id": "flappy-bird",
+      "title": "Flappy Bird",
+      "category": "Casual",
+      "subcategory": "Arcade",
+      "description": "Navigate a bird through pipes in this challenging arcade game. Simple controls, addictive gameplay.",
+      "guide": "Tap to fly up, release to fall. Time your taps carefully to navigate through the pipes. Practice makes perfect - this game rewards consistency.",
+      "rating": 4.4,
+      "plays": 1900000,
+      "difficulty": "Hard",
+      "tags": ["arcade", "casual", "challenging", "mobile"],
+      "image": "flappy-bird.jpg"
+    },
+    {
+      "id": "tetris",
+      "title": "Tetris",
+      "category": "Puzzle",
+      "subcategory": "Block Puzzle",
+      "description": "The legendary Tetris game. Stack falling blocks and clear lines to achieve high scores.",
+      "guide": "Rotate pieces strategically. Keep the board level. Create opportunities for Tetris (4-line clears) for maximum points. Stay focused as speed increases.",
+      "rating": 4.9,
+      "plays": 2800000,
+      "difficulty": "Medium",
+      "tags": ["puzzle", "classic", "blocks", "arcade"],
+      "image": "tetris.jpg"
+    },
+    {
+      "id": "pac-man",
+      "title": "Pac-Man",
+      "category": "Casual",
+      "subcategory": "Arcade",
+      "description": "Guide Pac-Man through the maze, eating dots and avoiding ghosts. A true arcade classic.",
+      "guide": "Learn the ghost patterns. Use power-ups strategically. Plan escape routes before eating pellets. Memorize maze layouts for better performance.",
+      "rating": 4.7,
+      "plays": 2200000,
+      "difficulty": "Medium",
+      "tags": ["arcade", "classic", "maze", "retro"],
+      "image": "pac-man.jpg"
+    },
+    {
+      "id": "space-invaders",
+      "title": "Space Invaders",
+      "category": "Action",
+      "subcategory": "Shooter",
+      "description": "Defend Earth from alien invaders. Shoot down waves of enemies and survive as long as possible.",
+      "guide": "Keep moving to avoid enemy fire. Aim carefully before shooting. Destroy enemies in patterns to maximize efficiency. Stay alert as difficulty increases.",
+      "rating": 4.6,
+      "plays": 1700000,
+      "difficulty": "Medium",
+      "tags": ["action", "shooter", "arcade", "classic"],
+      "image": "space-invaders.jpg"
+    },
+    {
+      "id": "breakout",
+      "title": "Breakout",
+      "category": "Casual",
+      "subcategory": "Arcade",
+      "description": "Break bricks with a bouncing ball. Control the paddle and clear all blocks to advance.",
+      "guide": "Position your paddle carefully. Aim for multiple brick hits per bounce. Use walls to your advantage. Try to hit bricks from different angles.",
+      "rating": 4.5,
+      "plays": 1500000,
+      "difficulty": "Easy",
+      "tags": ["arcade", "casual", "classic", "blocks"],
+      "image": "breakout.jpg"
+    },
+    {
+      "id": "chess",
+      "title": "Chess",
+      "category": "Strategy",
+      "subcategory": "Board Game",
+      "description": "The ultimate strategy game. Play chess against AI or other players. Master the ancient game.",
+      "guide": "Control the center of the board. Develop your pieces early. Protect your king. Learn basic tactics and openings. Practice endgames.",
+      "rating": 4.8,
+      "plays": 2400000,
+      "difficulty": "Hard",
+      "tags": ["strategy", "board", "classic", "competitive"],
+      "image": "chess.jpg"
+    },
+    {
+      "id": "checkers",
+      "title": "Checkers",
+      "category": "Strategy",
+      "subcategory": "Board Game",
+      "description": "Classic checkers game. Jump over opponents and become a king. Simple rules, deep strategy.",
+      "guide": "Protect your back row. Create multiple jump opportunities. Plan ahead for king promotions. Control the center for tactical advantage.",
+      "rating": 4.4,
+      "plays": 1200000,
+      "difficulty": "Medium",
+      "tags": ["strategy", "board", "classic", "turn-based"],
+      "image": "checkers.jpg"
+    },
+    {
+      "id": "memory-game",
+      "title": "Memory Game",
+      "category": "Puzzle",
+      "subcategory": "Matching",
+      "description": "Test your memory by matching pairs of cards. Improve your concentration and recall skills.",
+      "guide": "Focus on card positions. Create mental maps of where cards are. Start with easier levels. Practice regularly to improve memory.",
+      "rating": 4.3,
+      "plays": 980000,
+      "difficulty": "Easy",
+      "tags": ["puzzle", "memory", "casual", "brain"],
+      "image": "memory.jpg"
+    },
+    {
+      "id": "sudoku",
+      "title": "Sudoku",
+      "category": "Puzzle",
+      "subcategory": "Logic Puzzle",
+      "description": "Solve logic puzzles with numbers. Fill grids following Sudoku rules. Challenge your brain.",
+      "guide": "Start with cells that have limited options. Use elimination techniques. Look for patterns in rows, columns, and boxes. Take breaks if stuck.",
+      "rating": 4.6,
+      "plays": 1650000,
+      "difficulty": "Medium",
+      "tags": ["puzzle", "logic", "numbers", "brain"],
+      "image": "sudoku.jpg"
+    },
+    {
+      "id": "crossword",
+      "title": "Crossword Puzzle",
+      "category": "Puzzle",
+      "subcategory": "Word Puzzle",
+      "description": "Solve crossword puzzles and expand your vocabulary. Classic word game entertainment.",
+      "guide": "Start with easier clues. Fill in common words first. Use crossing letters to solve harder clues. Think of multiple word meanings.",
+      "rating": 4.4,
+      "plays": 1100000,
+      "difficulty": "Medium",
+      "tags": ["puzzle", "words", "vocabulary", "brain"],
+      "image": "crossword.jpg"
+    },
+    {
+      "id": "word-search",
+      "title": "Word Search",
+      "category": "Puzzle",
+      "subcategory": "Word Puzzle",
+      "description": "Find hidden words in letter grids. Relax and enjoy this classic word puzzle game.",
+      "guide": "Scan horizontally, vertically, and diagonally. Look for word patterns. Start with longer words. Use the word list as a guide.",
+      "rating": 4.3,
+      "plays": 890000,
+      "difficulty": "Easy",
+      "tags": ["puzzle", "words", "casual", "relaxing"],
+      "image": "word-search.jpg"
+    },
+    {
+      "id": "tic-tac-toe",
+      "title": "Tic Tac Toe",
+      "category": "Strategy",
+      "subcategory": "Board Game",
+      "description": "The classic three-in-a-row game. Play against AI or friends. Quick and fun.",
+      "guide": "Control the center square. Create two winning threats. Block opponent's winning moves. Play corners strategically.",
+      "rating": 4.2,
+      "plays": 750000,
+      "difficulty": "Easy",
+      "tags": ["strategy", "board", "casual", "quick"],
+      "image": "tic-tac-toe.jpg"
+    },
+    {
+      "id": "connect-four",
+      "title": "Connect Four",
+      "category": "Strategy",
+      "subcategory": "Board Game",
+      "description": "Drop pieces to connect four in a row. Strategic gameplay against AI or friends.",
+      "guide": "Control the center columns. Create multiple threats. Block opponent's winning moves. Think ahead multiple moves.",
+      "rating": 4.5,
+      "plays": 1350000,
+      "difficulty": "Medium",
+      "tags": ["strategy", "board", "competitive", "turn-based"],
+      "image": "connect-four.jpg"
+    },
+    {
+      "id": "hangman",
+      "title": "Hangman",
+      "category": "Puzzle",
+      "subcategory": "Word Puzzle",
+      "description": "Guess the word before the hangman is complete. Classic word guessing game.",
+      "guide": "Start with common letters like E, A, R. Look for patterns. Think of common words. Use vowels strategically.",
+      "rating": 4.3,
+      "plays": 920000,
+      "difficulty": "Easy",
+      "tags": ["puzzle", "words", "casual", "guessing"],
+      "image": "hangman.jpg"
+    },
+    {
+      "id": "twenty-forty-eight",
+      "title": "2048 Variations",
+      "category": "Puzzle",
+      "subcategory": "Number Puzzle",
+      "description": "Explore variations of the popular 2048 game with new twists and challenges.",
+      "guide": "Master the original 2048 first. Learn new mechanics in variations. Adapt your strategy to different game modes.",
+      "rating": 4.5,
+      "plays": 1420000,
+      "difficulty": "Medium",
+      "tags": ["puzzle", "numbers", "strategy", "variations"],
+      "image": "2048-variations.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "action",
+      "name": "Action",
+      "description": "Fast-paced games with exciting gameplay and real-time challenges",
+      "icon": "⚡",
+      "count": 85
+    },
+    {
+      "id": "puzzle",
+      "name": "Puzzle",
+      "description": "Brain-teasing games that challenge your logic and problem-solving skills",
+      "icon": "🧩",
+      "count": 120
+    },
+    {
+      "id": "battle",
+      "name": "Battle",
+      "description": "Competitive games where you fight against opponents or AI",
+      "icon": "⚔️",
+      "count": 95
+    },
+    {
+      "id": "racing",
+      "name": "Racing",
+      "description": "Speed and competition in thrilling racing games",
+      "icon": "🏎️",
+      "count": 65
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "description": "Sports-themed games including football, basketball, and more",
+      "icon": "⚽",
+      "count": 75
+    },
+    {
+      "id": "casual",
+      "name": "Casual",
+      "description": "Relaxing and fun games perfect for all ages",
+      "icon": "🎮",
+      "count": 110
+    },
+    {
+      "id": "strategy",
+      "name": "Strategy",
+      "description": "Games requiring tactical thinking and planning",
+      "icon": "♟️",
+      "count": 85
+    },
+    {
+      "id": "adventure",
+      "name": "Adventure",
+      "description": "Explore worlds and embark on exciting quests",
+      "icon": "🗺️",
+      "count": 70
+    }
+  ]
+}
